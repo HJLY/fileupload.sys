@@ -13,4 +13,4 @@
 <script src="${pageContext.request.contextPath}/javascript/public.js" type="text/javascript"></script>
 <script type="text/javascript">
 var PATH = "${pageContext.request.contextPath}";
-</script>123
+</script>
